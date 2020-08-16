@@ -1,0 +1,44 @@
+body {
+    background: gray;
+	margin: 130px;
+	
+}
+
+header {
+	margin-top: 100px;
+	
+}
+
+
+h1{
+	color: read;
+	font-family: fantasy;	
+	
+}
+
+h2{
+	font-family: fantasy;	
+	
+}
+
+p {
+	font-size: 18px	
+	
+}
+
+.img_padrao{
+	width: 70px
+	
+
+}
+
+footer {
+	margin-bottom:30px 
+
+}
+
+// git add. -->>salva todas as alterações e todos os arquivos para commit
+//git commit -m "<comentario>"
+//git push origin master-->> para subir no git
+
+
